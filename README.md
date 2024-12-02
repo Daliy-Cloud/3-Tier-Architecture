@@ -8,7 +8,7 @@
 **Use Skills**
 ```shell
 AWS                        Application/Framework
-- VPC                         - Python/Flask
+ - VPC                       - Python/Flask
  - EC2
  - Load Balancer
  - Auto Scaling Group
