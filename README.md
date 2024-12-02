@@ -1,7 +1,7 @@
 # Building a 3 Tier Architecture on AWS Services
 ---
 ### Architecture
-<img src="img/architecture.png"/>
+<img src="https://github.com/user-attachments/assets/8c9b3611-4b3c-40aa-b57f-66fb87370bdd"/>
 
 <br>
 
