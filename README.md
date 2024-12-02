@@ -23,7 +23,7 @@ AWS                        Application/Framework
 **Set Up**
 ```
 git clone https://github.com/Daliy-Cloud/3-Tier-Architecture.git
-mv 3-Tier-Architecture.git/src/* ./
+mv 3-Tier-Architecture/src/* ./
 terraform init
 terraform apply --auto-approve
 ```
